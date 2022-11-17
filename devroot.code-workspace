@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Assignments/CCCS_310__Assignment_01_V2_Data/project_web"
+		},
+		{
+			"path": "../../../../devopsWS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "devroot"
+	}
+}
